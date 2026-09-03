@@ -1,0 +1,3 @@
+//EJERCICIO 2 – Jerarquía de usuarios del sistema
+//Enunciado: StoreApp tiene tres tipos de usuarios:Usuario (base)Empleado (extiende Usuario con datos laborales).Administrador (extiende Empleado con permisos adicionales).
+// Demuestra la herencia
